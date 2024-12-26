@@ -1,5 +1,5 @@
 # Optimal SMOTE Variant Selection for Imbalanced Datasets in Educational Data Mining
-This is the Code repository is for the core part of our research paper "Optimal SMOTE Variant Selection for Imbalanced Datasets in Educational Data Mining." where we evaluates various SMOTE techniques and machine learning models to address class imbalance in an educational dataset, identifying the optimal SMOTE variant.
+This is the Code repository is for the core part of our research paper "Optimal SMOTE Variant Selection for Imbalanced Datasets in Educational Data Mining Using ML, Statistics, MCDM, and XAI" where we evaluates various SMOTE techniques and machine learning models to address class imbalance in an educational dataset, identifying the optimal SMOTE variant.
 ## Overview
  The code focuses on the core part of our experiment where we applied  various SMOTE variants, trained machine learning models, and evaluated their performance on an imbalanced AI course  dataset. We used 5-fold cross-validation to compute key performance metrics.
 
@@ -27,9 +27,12 @@ The dataset does not include any personal information about the students.
 ## Contents
 This repository includes:
 1. **`main_experiment.py`**: Python script to preprocess data, apply SMOTE variants, train machine learning models, and compute performance metrics.
-2. **`requirements.txt`**: A list of Python libraries required to run the code.
+2. **`requirements.txt`**: where we listed all Python libraries required to run our provided experiment.
 
 ## Prerequisites
-You need **Python 3.8 or later**. Install the dependencies listed in `requirements.txt` using:
+You need **Python 3.8 or later**. Install the dependencies we provided  in `requirements.txt` using:
 ```bash
 pip install -r requirements.txt
+
+## Citation
+If you find this experiment or code useful in your research, please cite our paper
