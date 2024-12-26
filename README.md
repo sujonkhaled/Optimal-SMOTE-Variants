@@ -1,5 +1,5 @@
 # Optimal SMOTE Variant Selection for Imbalanced Datasets in Educational Data Mining
-This is the Code repository is for the core part of our research paper "Optimal SMOTE Variant Selection for Imbalanced Datasets in Educational Data Mining Using ML, Statistics, MCDM, and XAI" where we evaluates various SMOTE techniques and machine learning models to address class imbalance in an educational dataset, identifying the optimal SMOTE variant.
+This is the Code repository for the core part of our research paper "Optimal SMOTE Variant Selection for Imbalanced Datasets in Educational Data Mining Using ML, Statistics, MCDM, and XAI" where we evaluates various SMOTE techniques and machine learning models to address class imbalance in an educational dataset, identifying the optimal SMOTE variant.
 ## Overview
  The code focuses on the core part of our experiment where we applied  various SMOTE variants, trained machine learning models, and evaluated their performance on an imbalanced AI course  dataset. We used 5-fold cross-validation to compute key performance metrics.
 
