@@ -1,0 +1,12 @@
+# Requirements for "Optimal SMOTE Variant Selection for
+Imbalanced Datasets in Educational Data Mining
+Using ML, Statistics, MCDM, and XAI"
+# here we have  listed all the Python libraries and their versions needed to run the main experiment script.
+
+pandas==1.3.5
+numpy==1.21.4
+matplotlib==3.5.1
+seaborn==0.11.2
+scikit-learn==1.0.1
+xgboost==1.5.0
+imbalanced-learn==0.8.1
