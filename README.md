@@ -24,6 +24,9 @@ The dataset used in this study is a real-time primary dataset collected from an 
 ### Note:
 The dataset does not include any personal information about the students.  
 
+## Citation
+If you find this experiment or code useful in your research, please cite our paper
+
 ## Contents
 This repository includes:
 1. **`main_experiment.py`**: Python script to preprocess data, apply SMOTE variants, train machine learning models, and compute performance metrics.
@@ -34,5 +37,4 @@ You need **Python 3.8 or later**. Install the dependencies we provided  in `requ
 ```bash
 pip install -r requirements.txt
 
-## Citation
-If you find this experiment or code useful in your research, please cite our paper
+
